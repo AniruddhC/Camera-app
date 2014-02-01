@@ -3,16 +3,18 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.aniruddh.pixel.camera"
         version   = "1.0.0">
 
-    <name>Camera App</name>
+    <name>Pixel Camera</name>
 
     <description>
-        Camera example app.
+        Pixel Camera Application for Windows Phone 8, Android.
+        iOS currently not supported by us. 
+        Developed by Aniruddh Chandratre
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://www.pixelrom.tk" email="aniruddh.chandratre@gmail.com">
         PhoneGap Team
     </author>
 
